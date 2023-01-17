@@ -1,0 +1,79 @@
+static void tasktwo()
+        {
+            //Verilmiş M dəyərindən verilmiş N dəyərinədək 21 - ə bölünən ədədlərin ədədi ortasını tapan metod
+
+            //Console.Write("1-ci eded:");
+            //int m = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("2-ci eded");
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //int sum = 0;
+            //double count = 0;
+            //if (m < n)
+            //{
+            //    for (int i = m; i < n; i++)
+            //    {
+            //        if (i % 21 == 0)
+            //        {
+            //            sum += i;
+            //            count++;
+
+            //        }
+
+
+            //    }
+            //    if (count == 0)
+            //    {
+            //        Console.WriteLine("21-e bolunen eded yoxdur");
+
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(sum / count);
+            //    }
+            //}
+        }
+        static void taskthree()
+        {
+            //Verilmiş N tam ədədinin rəqəmləri cəmini tapan metod
+
+            //Console.Write("ededi daxil et:");
+            //int N = Convert.ToInt32(Console.ReadLine());
+            //int digit = 0;
+            //int sum = 0;
+
+
+            //while (N > 0)
+            //{
+            //    digit = N % 10;
+            //    N = N / 10;
+            //    sum += digit;
+
+            //}
+            //Console.WriteLine(sum);
+        }
+        static void taskfour() 
+        {
+            //Verilmis yazıda a herfi olub olmadigini tapan metod
+
+            //Console.WriteLine("Text-i daxil edin");
+            //string text = Console.ReadLine();
+            //bool check = false;
+
+            //for (int i = 0; i < text.Length; i++)
+            //{
+            //    if (text[i] == 'a')
+            //    {
+            //        check = true;
+            //        break;
+
+            //    }
+
+
+            //}
+            //if (check == true)
+            //{
+            //    Console.WriteLine("var");
+            //}
+            //else
+            //    Console.WriteLine("yoxdur");
+        }
